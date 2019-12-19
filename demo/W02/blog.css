@@ -1,0 +1,30 @@
+.AA {
+  background-color: rgba(250, 235, 215, 0.301);
+  border: 15px solid pink;
+  margin: 20px auto;
+  padding: 20px;
+  width: 85%;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 16px;
+}
+
+.date {
+  text-transform: uppercase;
+  letter-spacing: 0.17em;
+  color: blueviolet;
+}
+
+h2 {
+  font-size: 2em;
+  font-weight: bolder;
+  color: grey;
+}
+
+.quote {
+  border-left: 5px solid pink;
+  padding-left: 5px;
+}
+
+.post {
+  margin-bottom: 30px;
+}

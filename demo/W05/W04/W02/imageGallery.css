@@ -1,0 +1,31 @@
+#line3 img {
+  width: 30%;
+  margin: 1.66%;
+  float: left;
+}
+
+#line4 img {
+  width: 22%;
+  margin: 1.5%;
+  float: left;
+}
+
+#line5 img {
+  width: 18%;
+  margin: 1%;
+  float: left;
+}
+
+.clearfix {
+  clear: both;
+}
+
+p {
+  font-size: 20px;
+  font-family: "Courier New", Courier, monospace;
+  font-weight: bold;
+  margin: 1.66%;
+  border-bottom: 2px solid #e43cbf;
+  width: 30%;
+  padding-bottom: 15px;
+}

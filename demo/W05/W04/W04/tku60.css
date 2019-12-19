@@ -1,0 +1,41 @@
+#menu {
+  width: 20%;
+  height: 500px;
+  background-color: rgb(104, 230, 255);
+  float: left;
+  font-family: "Courier New", Courier, monospace;
+  font-weight: bolder;
+}
+
+#menu h1 {
+  text-align: center;
+}
+
+#menu nav li {
+  list-style-type: none;
+  margin: 25px;
+  float: 15px;
+}
+
+#menu nav a {
+  background-color: rgb(49, 152, 243);
+  padding: 2px;
+}
+
+#menu nav a:hover {
+  background-color: whitesmoke;
+}
+#menu ul {
+  padding: 0px;
+}
+
+#section {
+  width: 80%;
+  height: 500px;
+  background-color: aqua;
+  float: right;
+}
+
+.clearfix {
+  clear: both;
+}
